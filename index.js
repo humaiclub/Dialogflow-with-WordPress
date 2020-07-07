@@ -11,8 +11,8 @@ const axios = require('axios');
 
 const wcApi = new WooCommerceRestApi({
   url: 'https://staging.humai.club',
-  consumerKey: 'ck_96bb3c21f2af932a914ab642b266bcc327f7ea91',
-  consumerSecret: 'cs_82df50cb76abadeef650bfa184946207a943992e',
+  consumerKey: 'YOUR-KEY-HERE',
+  consumerSecret: 'YOUR-SECRET-HERE',
   version: 'wc/v1'
 });
 
